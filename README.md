@@ -45,8 +45,7 @@ Foi feito utilizando:
 
 Se o seu projeto precisar de dependências, explique como instalar. Exemplo:
 
-```bash
-mvn install
+Instalação do mvn
 
 ## Como Contribuir
 
